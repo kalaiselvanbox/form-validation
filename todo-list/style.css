@@ -49,6 +49,7 @@ input {
     outline: none;
     background: transparent;
     padding: 10px;
+    padding-left: 1px;
     font-weight: 14px;
 }
 
